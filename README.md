@@ -4,7 +4,7 @@
 
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
-### https://chatify-49.web.app/
+### https://chitchat-3734f.web.app
 
 <div align="center">
   <img alt="Demo" src="./Assets/chatify.png" />
@@ -31,7 +31,7 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
+`git clone https://github.com/Malik-93/Chatify-master.git` <br/>
 `cd chatify`
 
 ### Install Dependencies
